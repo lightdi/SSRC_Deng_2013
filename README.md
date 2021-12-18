@@ -1,5 +1,5 @@
 # SSRC_Deng_2013
-This algorithm is based on a Super-posed Sparse Representation based Classification (SSRC) from paper "In Defense of Based Face Recognition" (https://ieeexplore.ieee.org/document/6618902)
+This algorithm of Super-posed Sparse Representation based Classification (SSRC) from paper "In Defense of Based Face Recognition" (https://ieeexplore.ieee.org/document/6618902) is based on implementation of "ClassifierToolbox : A Matlab toolbox for classifier (https://github.com/hiroyuki-kasai/ClassifierToolbox)"
 
 This program using the Cropped Images of AR dataset (https://www2.ece.ohio-state.edu/~aleix/ARdatabase.html "Cropped Images link") with images sizes of 120x160 pixels. This repository does not contain these images, but You can download on link: http://cbcsl.ece.ohio-state.edu/protected-dir/AR_warp_zip.zip. 
 
