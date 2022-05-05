@@ -18,7 +18,7 @@ from SSRC import ssrc
 # stat load images from dataset folder
 print('# Load images files ')
 start = time.time()
-train, test =load_AR_files_from_folder("dataset")
+train, test =load_AR_files_from_folder("dataset/AR-Cropped/")
 end = time.time()
 print("The time of execution of Load Images :", round((end-start)/60,3), "Minutos")
 
